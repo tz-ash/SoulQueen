@@ -25,7 +25,7 @@ PM_START = """Hello {username}, I'M {Axia}!
 
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of the things I can help you with.
 
-Deploy a bot like me [Now](www.github.com/IVETRI/SoulQueen)
+Deploy a bot like me [Now](www.github.com/tz-ash/SoulQueen)
 
 Watch A Video To Deploay A Bot Like Me. Click 👉🏻[HERE](https://youtu.be/reQQKqbd1-k)👈🏻
 
