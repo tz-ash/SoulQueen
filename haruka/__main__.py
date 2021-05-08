@@ -21,7 +21,7 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Hello {}, I'M {}!
+PM_START = """Hello {username}, I'M {Axia}!
 
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of the things I can help you with.
 
@@ -152,7 +152,7 @@ def send_start(bot, update):
         InlineKeyboardButton(text="❓ Help ❓", callback_data="help_back")],
                  [
         InlineKeyboardButton(
-            text="🤗 Add Me 🥳", url="http://t.me/SoulQueenBot?startgroup=true"
+            text="🤗 Add Me 🥳", url="http://t.me/AxiaXbot?startgroup=true"
         ),
     ],
 ]
